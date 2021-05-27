@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://saikrishna-muppa.github.io/csb-sk8ym/static/css/main.fe128321.chunk.css",
+    "main.js": "https://saikrishna-muppa.github.io/csb-sk8ym/static/js/main.4bfb8635.chunk.js",
+    "main.js.map": "https://saikrishna-muppa.github.io/csb-sk8ym/static/js/main.4bfb8635.chunk.js.map",
+    "runtime-main.js": "https://saikrishna-muppa.github.io/csb-sk8ym/static/js/runtime-main.386d4ca0.js",
+    "runtime-main.js.map": "https://saikrishna-muppa.github.io/csb-sk8ym/static/js/runtime-main.386d4ca0.js.map",
+    "static/js/2.c46bba22.chunk.js": "https://saikrishna-muppa.github.io/csb-sk8ym/static/js/2.c46bba22.chunk.js",
+    "static/js/2.c46bba22.chunk.js.map": "https://saikrishna-muppa.github.io/csb-sk8ym/static/js/2.c46bba22.chunk.js.map",
+    "index.html": "https://saikrishna-muppa.github.io/csb-sk8ym/index.html",
+    "static/css/main.fe128321.chunk.css.map": "https://saikrishna-muppa.github.io/csb-sk8ym/static/css/main.fe128321.chunk.css.map",
+    "static/js/2.c46bba22.chunk.js.LICENSE.txt": "https://saikrishna-muppa.github.io/csb-sk8ym/static/js/2.c46bba22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.386d4ca0.js",
+    "static/js/2.c46bba22.chunk.js",
+    "static/css/main.fe128321.chunk.css",
+    "static/js/main.4bfb8635.chunk.js"
+  ]
+}
